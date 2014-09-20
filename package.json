@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "leveldown": "^1.0.0",
+    "levelup": "^0.19.0"
+  }
+}
