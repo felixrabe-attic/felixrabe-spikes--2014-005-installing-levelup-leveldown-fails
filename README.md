@@ -1,6 +1,6 @@
 # npm install levelup leveldown - installs incompatible versions
 
-rvagg/node-levelup#282
+https://github.com/rvagg/node-levelup/issues/282
 
 ## tl;dr
 
